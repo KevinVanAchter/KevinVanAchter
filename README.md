@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KevinVanAchter
+- 👀 I’m interested in learning code
+- 🌱 I’m currently learning Java
